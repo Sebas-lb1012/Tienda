@@ -5,8 +5,8 @@ html{
 }
 
 body{
-    background-color: #d8e3f0;
-    margin: 0;
+    background-image: url(img/FondoEstrellas.jpg);
+    width: max-content;
 }
 
 header{
