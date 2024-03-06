@@ -26,10 +26,10 @@ header{
     padding: 10px 0px;
     width: 14.3%;
     display:inline-block ;
-    text-align: center;
 }
 
 .container{
   width: 1000px;
-  text-align: center;
+  text-align:center;
+  
 }
