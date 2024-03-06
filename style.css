@@ -5,8 +5,50 @@ html{
 }
 
 body{
-    background-image: url(img/FondoEstrellas.jpg);
-    
+    background-image: url(img/FondoTabogo.jpg);
+    background-size: 100%;
+}
+
+.cabecero{
+    background-color: rgba(0, 0, 0, 0.132);
+    color: white;
+    text-align: center;
+    width: 99%;
+    height: 100px;
+    margin-top: 20px;
+}
+
+.atajos{
+    display: inline-block;
+    margin: 1%;
+    color: white;
+}
+
+.atajos:hover{
+    color: rgb(188, 188, 188);
+}
+
+.contenido{
+    background-color: rgba(101, 101, 101, 0.498);
+    width: 90%;
+    height: 750px;
+    margin-left: 5%;
+}
+
+.textoPrincipal{
+    color: white;
+    width: 60%;
+    margin-left: 20%;
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+
+.footer{
+    background-color: rgb(40, 40, 40);
+    width: 100%;
+    height: 200px;
+    margin-top: 50px;
 }
 
 header{
