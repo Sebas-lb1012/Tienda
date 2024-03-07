@@ -11,13 +11,15 @@ body{
 
 header{
     background-color: #3b3d3f3f;
-    color: rgb(248, 246, 246);
+    color: rgb(255, 255, 255);
     padding: 2rem 6rem;
     height: 150px;
     text-align: center;
+    padding-top: 0px;
 }
 
 .column{
+    background-color: #3b3d3f86;
     padding-top: 10px;
     text-align: center;
 }
@@ -30,6 +32,7 @@ header{
 .column p{
     margin-top: 0px;
 }
+
 .container{
   width: auto;
   text-align:center;
@@ -45,8 +48,8 @@ header{
 
 .login2{
     background: #3b3d3fb0;
-    width: 25%;
-    height: 50%;
+    width: 35%;
+    height: 55%;
     color: white;
     margin-top: 4%;
     padding-top: 2.5%;
@@ -57,6 +60,25 @@ div {
     text-align: center;
 }
 
-div h1{
+.title{
     font-size: 5em;
+}
+
+.login3{
+    margin-top: 0%;
+}
+
+.atajos{
+    display: inline-block;
+    margin: 1%;
+    color: white;
+}
+
+.header1{
+    text-align: right;
+    padding-right: 5%;
+}
+
+.atajos:hover{
+    color: rgb(188,188, 188);
 }
