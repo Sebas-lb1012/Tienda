@@ -23,3 +23,69 @@ body{
 .atajos:hover{
     color: rgb(188,188, 188);
 }
+
+.column{
+background-color: #3b3d3fa2;
+padding-top: 10px;
+text-align: center;
+}
+
+.column h1{
+margin-bottom: 0;
+margin-top: 1%;
+}
+
+.column p{
+margin-top: 0px;
+}
+
+.container{
+width: auto;
+text-align:center;
+
+}
+
+.title {
+    font-size: 5rem;
+    color: white;
+}
+div p{
+    color: white;
+}
+header{
+    background-color: #3b3d3f3f;
+    color: rgb(255, 255, 255);
+    padding: 2rem 6rem;
+    height: 150px;
+    text-align: center;
+    padding-top: 0px;
+}
+
+.contacs1{
+    padding: 15px;
+}
+.contacs{
+    text-align: left;
+    background-color:rgba(97, 5, 5, 0.384); 
+    padding: 10px;
+} 
+ul{
+    list-style-type: disc;
+    list-style-position:outside;
+    
+}
+
+.name{
+    margin-bottom: 0px;
+}
+
+.cargo{
+    margin-top: 0px;
+}
+.email{
+    margin-top: 0px;
+    color: white;   
+}
+.email:hover{
+    color: rgba(0, 255, 255, 0.322);
+}
