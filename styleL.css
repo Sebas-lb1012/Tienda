@@ -9,7 +9,7 @@ body{
     background-size: 100%
 }
 
-header{
+section{
     background-color: #3b3d3f3f;
     color: rgb(255, 255, 255);
     padding: 2rem 6rem;
@@ -22,6 +22,7 @@ header{
     background-color: #3b3d3f86;
     padding-top: 10px;
     text-align: center;
+    border-radius: 50px;
 }
 
 .column h1{
@@ -31,6 +32,7 @@ header{
 
 .column p{
     margin-top: 0px;
+    
 }
 
 .container{
@@ -44,16 +46,19 @@ header{
     justify-content: center;
     /*align-items: center;*/
     height: 100%;
+  padding-bottom: 50px;
 }
 
 .login2{
-    background: #3b3d3fb0;
+    background: rgb(97, 5, 5, 0.384);
     width: 35%;
     height: 55%;
     color: white;
     margin-top: 4%;
     padding-top: 2.5%;
     padding-bottom: 2.5%;
+    border-radius: 25px;
+
 }
 
 div {
@@ -81,4 +86,8 @@ div {
 
 .atajos:hover{
     color: rgb(188,188, 188);
+}
+
+.inicio{
+    border-radius: 5px;
 }
